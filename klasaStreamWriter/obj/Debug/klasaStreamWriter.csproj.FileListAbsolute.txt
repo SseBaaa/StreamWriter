@@ -1,0 +1,8 @@
+C:\Users\ucenik\source\repos\klasaStreamWriter\klasaStreamWriter\bin\Debug\klasaStreamWriter.exe.config
+C:\Users\ucenik\source\repos\klasaStreamWriter\klasaStreamWriter\bin\Debug\klasaStreamWriter.exe
+C:\Users\ucenik\source\repos\klasaStreamWriter\klasaStreamWriter\bin\Debug\klasaStreamWriter.pdb
+C:\Users\ucenik\source\repos\klasaStreamWriter\klasaStreamWriter\obj\Debug\klasaStreamWriter.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\klasaStreamWriter\klasaStreamWriter\obj\Debug\klasaStreamWriter.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\klasaStreamWriter\klasaStreamWriter\obj\Debug\klasaStreamWriter.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\klasaStreamWriter\klasaStreamWriter\obj\Debug\klasaStreamWriter.exe
+C:\Users\ucenik\source\repos\klasaStreamWriter\klasaStreamWriter\obj\Debug\klasaStreamWriter.pdb
